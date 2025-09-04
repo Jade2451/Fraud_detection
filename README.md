@@ -78,7 +78,8 @@ The final trained model will be saved in the models/ directory, and the risk das
 
 The model is evaluated on its ability to distinguish fraudulent from legitimate transactions. The following is a sample performance summary for a `RandomForestClassifier`.
 
-<img width="396" height="196" alt="image" src="https://github.com/user-attachments/assets/7c8d4968-8986-48dd-8e68-c262e2af05f3" />
+<img width="396" height="196" alt="image" src="https://github.com/user-attachments/assets/8915dd87-a075-4db0-b132-23b09dc99078" />
+
 
 *Note: Due to the highly imbalanced nature of fraud datasets, precision and recall on the minority class (fraud) are more important metrics than overall accuracy.*
 
